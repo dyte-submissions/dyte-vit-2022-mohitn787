@@ -15,6 +15,8 @@ IMPORTANT POINTS TO RUN THE dyte_main.py script
 
 --> The link added into the pr_link list is the link of the pull request made by self
 
+--> make sure that 'mo.txt' file is in the same directory as that of the python notebook, having the initial content as "hello"
+
 --> All the github actions is done using the Github API, secret access token is also mentioned to verify the same
 
 --> To fetch the version number from 'package.json', I have used github api to fetch the contents of the file
