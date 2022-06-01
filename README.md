@@ -1,4 +1,4 @@
-RUN THE dyte_main.py script
+IMPORTANT POINTS TO RUN THE dyte_main.py script
 
 --> give the commmand as input to the dyte_main.py script
 
@@ -18,7 +18,7 @@ RUN THE dyte_main.py script
 
 ***** -->  Currently, to fetch the data from github repo, run the substitute to fetch the verion from github repo manually by giving the repo url as input
 
-Additional features
+ADDITIONAL FEATURES
 
 --> A commented function is there in the script by the name "get_all_version()". which can returen the all the individual dependencies of the package.json file
 
@@ -27,7 +27,7 @@ Additional features
 --> It also has the feature of adding a issue to the repo, and using the issue id it can create a new pull request
 
 
-Link for Google Colab Notebook
+LINK FOR GOOGLE COLLAB NOTEBOOKS
 
 -->  https://colab.research.google.com/drive/19Z-T84cnt_Vg7_3FCSl2Hc2j_I3O9W-3?usp=sharing
 
