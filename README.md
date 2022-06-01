@@ -18,6 +18,8 @@ IMPORTANT POINTS TO RUN THE dyte_main.py script
 
 ***** -->  Currently, to fetch the data from github repo, run the substitute to fetch the verion from github repo manually by giving the repo url as input
 
+-->  Above each snippets, brief description are mentioned as comments
+
 ADDITIONAL FEATURES
 
 --> A commented function is there in the script by the name "get_all_version()". which can returen the all the individual dependencies of the package.json file
