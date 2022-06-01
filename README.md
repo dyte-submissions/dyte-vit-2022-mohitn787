@@ -12,11 +12,9 @@ IMPORTANT POINTS TO RUN THE dyte_main.py script
 
 --> All the github actions is done using the Github API, secret access token is also mentioned to verify the same
 
+--> To fetch the version number from 'package.json', I have used github api to fetch the contents of the file
+
 --> All the code is written in python, and the style of coding is procedural
-
---> To fetch the version number from the package.json file from github, I have created 2 functions both of which are capable of doing the same work, but when run in a      loop, the first function breaks after the first iteration due to extra data error which is caused due to the json.loads() function on which i am working to            rectify
-
-***** -->  Currently, to fetch the data from github repo, run the substitute to fetch the verion from github repo manually by giving the repo url as input
 
 -->  Above each snippets, brief description are mentioned as comments
 
@@ -31,7 +29,9 @@ ADDITIONAL FEATURES
 
 LINK FOR GOOGLE COLLAB NOTEBOOKS
 
--->  https://colab.research.google.com/drive/19Z-T84cnt_Vg7_3FCSl2Hc2j_I3O9W-3?usp=sharing
+-->  https://colab.research.google.com/drive/1TRVHZ7C9eaN-tjwbpi0wYAxNLDCZnECm?usp=sharing
 
 -->  https://colab.research.google.com/drive/1L4gtho5Pd5SUs_zgpj5R6IO-vZs14jm5?usp=sharing
+
+
 
