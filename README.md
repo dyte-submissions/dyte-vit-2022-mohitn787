@@ -1,5 +1,5 @@
-RUN THE dyte_main.py script
---> give the commmand as input to the dyte_main.py script
+RUN THE dyte_main.py script<br?
+--> give the commmand as input to the dyte_main.py script<br>
 --> make sure that the input file is in the same directory as that of the dyte_main.py file
 --> if update is not mentioned then the output file is "first.csv"
 --> if update is mentioned then second.csv is the output file containing the pr_request link also
