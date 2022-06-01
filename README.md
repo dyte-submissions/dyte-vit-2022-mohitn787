@@ -1,3 +1,8 @@
+Submitted by -  MOHIT NAYAK
+Reg.no - 19BCE1179
+Vit Chennai CSE
+
+
 IMPORTANT POINTS TO RUN THE dyte_main.py script
 
 --> give the commmand as input to the dyte_main.py script
