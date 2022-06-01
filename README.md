@@ -36,7 +36,6 @@ LINK FOR GOOGLE COLLAB NOTEBOOKS
 
 -->  https://colab.research.google.com/drive/1TRVHZ7C9eaN-tjwbpi0wYAxNLDCZnECm?usp=sharing
 
--->  https://colab.research.google.com/drive/1L4gtho5Pd5SUs_zgpj5R6IO-vZs14jm5?usp=sharing
 
 SAMPLE LINK FOR PULL REQUEST MADE (which gets stored in the upgrade.csv file)
 
